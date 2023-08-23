@@ -1,0 +1,10 @@
+mkdir nesteam
+cd nesteam
+python -m venv venv
+activate the venv
+pip install django
+pip install djangorestframework
+django-admin startproject nesteam .
+python manage.py startapp usersapp
+python manage.py startapp games
+

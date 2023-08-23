@@ -1,0 +1,5 @@
+__pychache__/
+*.pyc
+dc.sqlite3
+venv/
+.idea/
